@@ -1,0 +1,3 @@
+/home/eu/Desktop/trabalho4/Sample/CMakeFiles/sample.dir
+/home/eu/Desktop/trabalho4/Sample/CMakeFiles/edit_cache.dir
+/home/eu/Desktop/trabalho4/Sample/CMakeFiles/rebuild_cache.dir

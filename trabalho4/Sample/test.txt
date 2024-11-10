@@ -1,0 +1,11 @@
+if valor > 2.5E+30 then
+    ok
+else
+    problem
+
+while aux < 100 then
+    do something
+
+if "jfjfjsd" == v_alor_ then
+    while variavel != alguma_coisa then
+        "\" aspas dentro de aspas\" e \\ barra dentro de aspas"
