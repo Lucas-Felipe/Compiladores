@@ -1,0 +1,3 @@
+/home/eu/Desktop/Lab03/Debug/CMakeFiles/tradutor.dir
+/home/eu/Desktop/Lab03/Debug/CMakeFiles/edit_cache.dir
+/home/eu/Desktop/Lab03/Debug/CMakeFiles/rebuild_cache.dir
