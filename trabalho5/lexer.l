@@ -19,7 +19,14 @@ string  \"([^"\\]|\\.|\\\\)*\"
 if		    return IF; 
 then		return THEN; 
 else		return ELSE;
-while       return WHILE; 
+while       return WHILE;
+type        return TYPE;
+true        return TRUE;
+false       return FALSE;
+main        return MAIN;
+do          retrun DO;
+or          return OR;
+and         return AND;
 {id}		return ID;  
 {num}	    return NUM;
 {string}    return STRING;

@@ -13,9 +13,11 @@ Lexer::Lexer()
 	token_table["int"]   = Token{ Tag::TYPE, "int" };
 	token_table["float"] = Token{ Tag::TYPE, "float" };
 	token_table["bool"] = Token{ Tag::TYPE, "bool" };
+	token_table["string"]    = Token{ Tag::STRING,    "string" };
 	token_table["true"]  = Token{ Tag::TRUE, "true" };
 	token_table["false"] = Token{ Tag::FALSE, "false" };
 	token_table["if"]    = Token{ Tag::IF,    "if" };
+	token_table["then"]    = Token{ Tag::THEN,    "then" };
 	token_table["while"] = Token{ Tag::WHILE, "while" };
 	token_table["do"]    = Token{ Tag::DO,    "do" };
 	
